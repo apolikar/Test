@@ -10,7 +10,7 @@ To play the game:
 5. Navigate to the URL provided in the same section.
 
 To play the game use your arrow buttons. 
-
+Hi @apolikar. Can you please be more specified about the control of the game.
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
